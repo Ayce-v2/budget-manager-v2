@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/budget_manager_v2/static/js/main.b8c8a923.js",
-    "index.html": "/budget_manager_v2/index.html",
-    "main.b8c8a923.js.map": "/budget_manager_v2/static/js/main.b8c8a923.js.map"
+    "main.js": "/budget-manager-v2/static/js/main.b8c8a923.js",
+    "index.html": "/budget-manager-v2/index.html",
+    "main.b8c8a923.js.map": "/budget-manager-v2/static/js/main.b8c8a923.js.map"
   },
   "entrypoints": [
     "static/js/main.b8c8a923.js"
